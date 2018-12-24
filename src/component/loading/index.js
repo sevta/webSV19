@@ -1,1 +1,0 @@
-export { default as LoadingFullScreen } from './fullscreen/loadingfullscreen'
