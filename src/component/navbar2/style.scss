@@ -1,0 +1,12 @@
+.menu-wrapper {
+  &_link {
+    color: #aeaeae;
+    &.active {
+      color: #fff;
+      padding: 3px 5px;
+      border-radius: 3px;
+      // background-color: royalblue;
+      background-color: turquoise;
+    }
+  }
+}

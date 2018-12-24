@@ -1,0 +1,12 @@
+.gallery-img {
+  width: 300px;
+  height: 300px; }
+.gallery-img {
+  width: 230px;
+  height: 230px; }
+.header {
+  height: calc(60vh - 59px);
+  background-image: url("https://images.pexels.com/photos/311716/pexels-photo-311716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; }
